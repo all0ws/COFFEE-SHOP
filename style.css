@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header a{
+    background-color: burlywood;
+    text-decoration: none;
+
+}
+header{
+    padding: 30px;
+}
+nav a  {
+    text-decoration: none;
+    border: 3px solid whitesmoke;
+    border-radius: 5px;
+    margin: 90px;
+    padding: 10px;
+    color: whitesmoke;
+}
+nav {
+background-color: burlywood;
+}
+h1 i{
+    text-align: center;
+}
+body {
+    background-color: burlywood;
+    text-decoration: none;
+}
+
+
+.qq{
+   border: 3px solid whitesmoke;
+    border-radius: 5px;  
+    padding: 10px;
+    text-align:  center;
+}
+.s{
+   text-align:  center; 
+}
+.ee{
+    width: 350px;
+    height: 250px;
+}
