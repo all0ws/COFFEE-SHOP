@@ -10,7 +10,9 @@ header a{
 .p{
     text-align: center;
 }
-
+.o{
+    color:burlywood;
+}
 header{
     padding: 30px;
 }
